@@ -3,8 +3,8 @@ lovehh4ever!
 
 - Some stories to specify a Stack
   
-  ```java
-  public class StackSpec {% \{\{ %}
+  ```javascript
+  public class StackSpec {{
     describe("a stack", it -> {
       it.should("be empty when created", expect -> {
         expect.that(new Stack()).isEmpty();
@@ -21,6 +21,6 @@ lovehh4ever!
         expect.that(stack.pop()).isEqualTo(2);
       });
     });
-  {% \}\} %}
+  }}
   ```
   
