@@ -2,7 +2,7 @@ lovehh4ever!
 
 
 - Some stories to specify a Stack
-  ```java
+  ```javascript
   public class StackSpec {{
     describe("a stack", it -> {
       it.should("be empty when created", expect -> {
