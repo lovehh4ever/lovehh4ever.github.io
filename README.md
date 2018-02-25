@@ -2,7 +2,6 @@ lovehh4ever!
 
 
 - Some stories to specify a Stack
-
 {% raw %}
   ```javascript
   public class StackSpec {{
@@ -25,4 +24,3 @@ lovehh4ever!
   }}
   ```
 {% endraw %}
-  
