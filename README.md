@@ -2,7 +2,7 @@ lovehh4ever!
 
 
 - Some stories to specify a Stack
-  
+  {% raw %}
   ```javascript
   public class StackSpec {{
     describe("a stack", it -> {
@@ -23,4 +23,5 @@ lovehh4ever!
     });
   }}
   ```
+  {% raw %}
   
