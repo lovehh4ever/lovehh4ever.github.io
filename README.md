@@ -2,7 +2,8 @@ lovehh4ever!
 
 
 - Some stories to specify a Stack
-  ```javascript
+  {%
+  ```java
   public class StackSpec {{
     describe("a stack", it -> {
       it.should("be empty when created", expect -> {
@@ -22,3 +23,4 @@ lovehh4ever!
     });
   }}
   ```
+  %}
